@@ -1,0 +1,36 @@
+{
+  "name": "sonnys-code",
+  "displayName": "sonnys_code",
+  "description": "code theme for sonny",
+  "version": "0.0.1",
+  "publisher": "agenomicsphd",
+  "engines": {
+    "vscode": "^1.33.0"
+  },
+  "keywords": [
+    "sonnys theme",
+    "orange",
+    "khaki",
+    "agenomicsphd"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/livygrant97/sonnys-code"
+  },
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "sonnys-code",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sonnys-code-color-theme.json"
+      }
+    ]
+  }
+}
+
